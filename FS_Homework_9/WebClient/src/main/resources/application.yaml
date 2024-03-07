@@ -1,0 +1,17 @@
+server:
+  port: 4002
+
+spring:
+  application:
+    name: WebClient
+  http:
+    encoding:
+      charset: UTF-8
+info:
+  app:
+    name:Web Client
+  company:
+    name:GB
+  build:
+    version:
+      ???????? ??????? ? 9
